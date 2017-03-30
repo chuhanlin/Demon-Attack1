@@ -1,2 +1,2 @@
 # Demon-Attack1
-<img src = "gameImg1.jpg" "width:304px; height:228px;">
+<img src = "https://github.com/chuhanlin/Demon-Attack1/blob/master" width = "340" height = "300" >
